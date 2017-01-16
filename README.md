@@ -1,1 +1,1 @@
-# Google-n-gram-frequency
+refer 4P pdf for detailed scenario
